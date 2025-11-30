@@ -1,0 +1,222 @@
+{
+  "board": "ups-12v.kicad_pcb",
+  "num_nets": 43,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "+VDC",
+      "predicted_cost": 256.4744873046875
+    },
+    {
+      "rank": 1,
+      "net": "Net-(C5-Pad2",
+      "predicted_cost": 136.1493377685547
+    },
+    {
+      "rank": 2,
+      "net": "GND",
+      "predicted_cost": 533.7901000976562
+    },
+    {
+      "rank": 3,
+      "net": "/+12V-OUT",
+      "predicted_cost": 129.5621795654297
+    },
+    {
+      "rank": 4,
+      "net": "/AC-N",
+      "predicted_cost": 131.90162658691406
+    },
+    {
+      "rank": 5,
+      "net": "Net-(D1-Pad2",
+      "predicted_cost": 62.823951721191406
+    },
+    {
+      "rank": 6,
+      "net": "/AC-L",
+      "predicted_cost": 95.67379760742188
+    },
+    {
+      "rank": 7,
+      "net": "/+VBAT",
+      "predicted_cost": 82.185791015625
+    },
+    {
+      "rank": 8,
+      "net": "+12V",
+      "predicted_cost": 81.47970581054688
+    },
+    {
+      "rank": 9,
+      "net": "Net-(Q3-Pad3",
+      "predicted_cost": 66.78366088867188
+    },
+    {
+      "rank": 10,
+      "net": "+5V",
+      "predicted_cost": 171.8797149658203
+    },
+    {
+      "rank": 11,
+      "net": "/STATUS-LED1",
+      "predicted_cost": 37.03873825073242
+    },
+    {
+      "rank": 12,
+      "net": "/B+",
+      "predicted_cost": 67.27998352050781
+    },
+    {
+      "rank": 13,
+      "net": "Net-(F1-Pad2",
+      "predicted_cost": 23.19397735595703
+    },
+    {
+      "rank": 14,
+      "net": "Net-(R10-Pad2",
+      "predicted_cost": 223.4333038330078
+    },
+    {
+      "rank": 15,
+      "net": "Net-(D8-Pad2",
+      "predicted_cost": 42.836692810058594
+    },
+    {
+      "rank": 16,
+      "net": "/AC-SENSE",
+      "predicted_cost": 42.72417449951172
+    },
+    {
+      "rank": 17,
+      "net": "/STATUS-LED0",
+      "predicted_cost": 49.813995361328125
+    },
+    {
+      "rank": 18,
+      "net": "Net-(D12-Pad2",
+      "predicted_cost": 14.009602546691895
+    },
+    {
+      "rank": 19,
+      "net": "Net-(R5-Pad1",
+      "predicted_cost": 40.63994216918945
+    },
+    {
+      "rank": 20,
+      "net": "Net-(J2-Pad2",
+      "predicted_cost": 41.16557312011719
+    },
+    {
+      "rank": 21,
+      "net": "Net-(R17-Pad2",
+      "predicted_cost": 43.66893005371094
+    },
+    {
+      "rank": 22,
+      "net": "/CHG_FLOAT",
+      "predicted_cost": 10.644628524780273
+    },
+    {
+      "rank": 23,
+      "net": "+12L",
+      "predicted_cost": 63.76510238647461
+    },
+    {
+      "rank": 24,
+      "net": "/MCLR",
+      "predicted_cost": 33.339263916015625
+    },
+    {
+      "rank": 25,
+      "net": "Net-(D3-Pad2",
+      "predicted_cost": 31.227413177490234
+    },
+    {
+      "rank": 26,
+      "net": "Net-(C1-Pad1",
+      "predicted_cost": 21.643722534179688
+    },
+    {
+      "rank": 27,
+      "net": "/ADC-IN",
+      "predicted_cost": 27.92915916442871
+    },
+    {
+      "rank": 28,
+      "net": "Net-(R8-Pad1",
+      "predicted_cost": 21.86138343811035
+    },
+    {
+      "rank": 29,
+      "net": "/RELAY-DRV",
+      "predicted_cost": 23.08795928955078
+    },
+    {
+      "rank": 30,
+      "net": "Net-(R3-Pad2",
+      "predicted_cost": 34.014225006103516
+    },
+    {
+      "rank": 31,
+      "net": "Net-(Q1-Pad1",
+      "predicted_cost": 18.381086349487305
+    },
+    {
+      "rank": 32,
+      "net": "Net-(D13-Pad2",
+      "predicted_cost": 28.122846603393555
+    },
+    {
+      "rank": 33,
+      "net": "Net-(D7-Pad2",
+      "predicted_cost": 14.104085922241211
+    },
+    {
+      "rank": 34,
+      "net": "/PGD",
+      "predicted_cost": 16.870485305786133
+    },
+    {
+      "rank": 35,
+      "net": "Net-(D9-Pad2",
+      "predicted_cost": 9.552759170532227
+    },
+    {
+      "rank": 36,
+      "net": "/DEBUG-TX",
+      "predicted_cost": 15.678558349609375
+    },
+    {
+      "rank": 37,
+      "net": "Net-(D10-Pad1",
+      "predicted_cost": 9.581555366516113
+    },
+    {
+      "rank": 38,
+      "net": "Net-(D11-Pad1",
+      "predicted_cost": 11.734819412231445
+    },
+    {
+      "rank": 39,
+      "net": "/PGC",
+      "predicted_cost": 15.15658187866211
+    },
+    {
+      "rank": 40,
+      "net": "Net-(Q1-Pad2",
+      "predicted_cost": 2.187891960144043
+    },
+    {
+      "rank": 41,
+      "net": "Net-(D6-Pad2",
+      "predicted_cost": 9.1273193359375
+    },
+    {
+      "rank": 42,
+      "net": "Net-(D14-Pad2",
+      "predicted_cost": 16.458984375
+    }
+  ],
+  "ga_used": true
+}

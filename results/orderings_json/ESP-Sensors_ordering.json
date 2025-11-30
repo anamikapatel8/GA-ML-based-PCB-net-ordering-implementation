@@ -1,0 +1,127 @@
+{
+  "board": "ESP-Sensors.kicad_pcb",
+  "num_nets": 24,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "VCC",
+      "predicted_cost": 93.39940643310547
+    },
+    {
+      "rank": 1,
+      "net": "GND",
+      "predicted_cost": 154.57371520996094
+    },
+    {
+      "rank": 2,
+      "net": "/MISO",
+      "predicted_cost": 73.61556243896484
+    },
+    {
+      "rank": 3,
+      "net": "/GPIO13",
+      "predicted_cost": 73.9154052734375
+    },
+    {
+      "rank": 4,
+      "net": "/GPIO12",
+      "predicted_cost": 73.59960174560547
+    },
+    {
+      "rank": 5,
+      "net": "Net-(C1-Pad1",
+      "predicted_cost": 69.59326934814453
+    },
+    {
+      "rank": 6,
+      "net": "/GPIO14",
+      "predicted_cost": 77.25404357910156
+    },
+    {
+      "rank": 7,
+      "net": "/SLCK",
+      "predicted_cost": 71.50208282470703
+    },
+    {
+      "rank": 8,
+      "net": "/CS0",
+      "predicted_cost": 69.46366119384766
+    },
+    {
+      "rank": 9,
+      "net": "/GPIO0",
+      "predicted_cost": 65.51353454589844
+    },
+    {
+      "rank": 10,
+      "net": "/MOSI",
+      "predicted_cost": 65.74036407470703
+    },
+    {
+      "rank": 11,
+      "net": "/ANALOG_IN",
+      "predicted_cost": 72.24740600585938
+    },
+    {
+      "rank": 12,
+      "net": "/GPIO15",
+      "predicted_cost": 58.64960861206055
+    },
+    {
+      "rank": 13,
+      "net": "/GPIO9",
+      "predicted_cost": 53.445884704589844
+    },
+    {
+      "rank": 14,
+      "net": "/GPIO10",
+      "predicted_cost": 53.47279739379883
+    },
+    {
+      "rank": 15,
+      "net": "/GPIO4",
+      "predicted_cost": 43.027488708496094
+    },
+    {
+      "rank": 16,
+      "net": "/GPIO2",
+      "predicted_cost": 37.15701675415039
+    },
+    {
+      "rank": 17,
+      "net": "Net-(R1-Pad1",
+      "predicted_cost": 18.23769760131836
+    },
+    {
+      "rank": 18,
+      "net": "/RXD",
+      "predicted_cost": 24.064464569091797
+    },
+    {
+      "rank": 19,
+      "net": "Net-(J4-Pad1",
+      "predicted_cost": 19.794137954711914
+    },
+    {
+      "rank": 20,
+      "net": "Net-(10K1-Pad2",
+      "predicted_cost": 48.4247932434082
+    },
+    {
+      "rank": 21,
+      "net": "/GPIO5",
+      "predicted_cost": 47.0187873840332
+    },
+    {
+      "rank": 22,
+      "net": "Net-(J5-Pad1",
+      "predicted_cost": 17.239913940429688
+    },
+    {
+      "rank": 23,
+      "net": "/TXD",
+      "predicted_cost": 20.103422164916992
+    }
+  ],
+  "ga_used": true
+}

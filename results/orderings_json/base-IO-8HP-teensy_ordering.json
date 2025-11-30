@@ -1,0 +1,592 @@
+{
+  "board": "base-IO-8HP-teensy.kicad_pcb",
+  "num_nets": 117,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "Net-(U1-Pad9",
+      "predicted_cost": 0.878654420375824
+    },
+    {
+      "rank": 1,
+      "net": "Net-(J1-Pad30",
+      "predicted_cost": 0.1848239302635193
+    },
+    {
+      "rank": 2,
+      "net": "Net-(J2-Pad24",
+      "predicted_cost": 0.6530894637107849
+    },
+    {
+      "rank": 3,
+      "net": "+5V",
+      "predicted_cost": 155.7958221435547
+    },
+    {
+      "rank": 4,
+      "net": "Net-(D2-Pad1",
+      "predicted_cost": 15.138387680053711
+    },
+    {
+      "rank": 5,
+      "net": "GND",
+      "predicted_cost": 291.7912292480469
+    },
+    {
+      "rank": 6,
+      "net": "Net-(J1-Pad33",
+      "predicted_cost": 0.0772056058049202
+    },
+    {
+      "rank": 7,
+      "net": "Net-(U1-Pad36",
+      "predicted_cost": 0.9468888640403748
+    },
+    {
+      "rank": 8,
+      "net": "Net-(D3-Pad1",
+      "predicted_cost": 26.134296417236328
+    },
+    {
+      "rank": 9,
+      "net": "Net-(U1-Pad23",
+      "predicted_cost": 0.8877868056297302
+    },
+    {
+      "rank": 10,
+      "net": "Net-(U1-Pad11",
+      "predicted_cost": 0.900392472743988
+    },
+    {
+      "rank": 11,
+      "net": "+3V3",
+      "predicted_cost": 125.64149475097656
+    },
+    {
+      "rank": 12,
+      "net": "Net-(J2-Pad23",
+      "predicted_cost": 0.7672328352928162
+    },
+    {
+      "rank": 13,
+      "net": "Net-(J2-Pad14",
+      "predicted_cost": 0.8427590727806091
+    },
+    {
+      "rank": 14,
+      "net": "Net-(U1-Pad42",
+      "predicted_cost": 0.9072522521018982
+    },
+    {
+      "rank": 15,
+      "net": "Net-(U1-Pad47",
+      "predicted_cost": 0.8591784834861755
+    },
+    {
+      "rank": 16,
+      "net": "Net-(U1-Pad46",
+      "predicted_cost": 0.9306592345237732
+    },
+    {
+      "rank": 17,
+      "net": "Net-(J1-Pad8",
+      "predicted_cost": 0.8155936598777771
+    },
+    {
+      "rank": 18,
+      "net": "Net-(D1-Pad1",
+      "predicted_cost": 15.85601806640625
+    },
+    {
+      "rank": 19,
+      "net": "Net-(U1-Pad37",
+      "predicted_cost": 0.9338492751121521
+    },
+    {
+      "rank": 20,
+      "net": "Net-(U1-Pad14",
+      "predicted_cost": 0.9023827910423279
+    },
+    {
+      "rank": 21,
+      "net": "Net-(D1-Pad2",
+      "predicted_cost": 16.833303451538086
+    },
+    {
+      "rank": 22,
+      "net": "Net-(J2-Pad16",
+      "predicted_cost": 0.8705005049705505
+    },
+    {
+      "rank": 23,
+      "net": "Net-(U1-Pad16",
+      "predicted_cost": 0.8823451399803162
+    },
+    {
+      "rank": 24,
+      "net": "Net-(J2-Pad7",
+      "predicted_cost": 0.8608292937278748
+    },
+    {
+      "rank": 25,
+      "net": "Net-(U1-Pad7",
+      "predicted_cost": 0.8698329329490662
+    },
+    {
+      "rank": 26,
+      "net": "Net-(J1-Pad26",
+      "predicted_cost": 0.25535768270492554
+    },
+    {
+      "rank": 27,
+      "net": "Net-(J1-Pad10",
+      "predicted_cost": 0.8185710310935974
+    },
+    {
+      "rank": 28,
+      "net": "Net-(J2-Pad8",
+      "predicted_cost": 0.8487595915794373
+    },
+    {
+      "rank": 29,
+      "net": "Net-(D3-Pad2",
+      "predicted_cost": 15.638004302978516
+    },
+    {
+      "rank": 30,
+      "net": "Net-(J2-Pad18",
+      "predicted_cost": 0.9197215437889099
+    },
+    {
+      "rank": 31,
+      "net": "Net-(J1-Pad11",
+      "predicted_cost": 0.814480721950531
+    },
+    {
+      "rank": 32,
+      "net": "Net-(U1-Pad44",
+      "predicted_cost": 0.9137553572654724
+    },
+    {
+      "rank": 33,
+      "net": "Net-(U1-Pad3",
+      "predicted_cost": 0.8727626204490662
+    },
+    {
+      "rank": 34,
+      "net": "Net-(J1-Pad29",
+      "predicted_cost": 0.19832414388656616
+    },
+    {
+      "rank": 35,
+      "net": "Net-(U1-Pad17",
+      "predicted_cost": 0.8926352858543396
+    },
+    {
+      "rank": 36,
+      "net": "Net-(J1-Pad37",
+      "predicted_cost": -0.17300039529800415
+    },
+    {
+      "rank": 37,
+      "net": "Net-(D2-Pad2",
+      "predicted_cost": 16.417598724365234
+    },
+    {
+      "rank": 38,
+      "net": "Net-(J1-Pad28",
+      "predicted_cost": 0.21446412801742554
+    },
+    {
+      "rank": 39,
+      "net": "Net-(U1-Pad33",
+      "predicted_cost": 0.7994593977928162
+    },
+    {
+      "rank": 40,
+      "net": "Net-(U1-Pad24",
+      "predicted_cost": 0.8771790862083435
+    },
+    {
+      "rank": 41,
+      "net": "Net-(U1-Pad30",
+      "predicted_cost": 0.4955691695213318
+    },
+    {
+      "rank": 42,
+      "net": "Net-(U1-Pad49",
+      "predicted_cost": 0.8942908644676208
+    },
+    {
+      "rank": 43,
+      "net": "Net-(J1-Pad21",
+      "predicted_cost": 0.961204469203949
+    },
+    {
+      "rank": 44,
+      "net": "Net-(J2-Pad15",
+      "predicted_cost": 0.8542689681053162
+    },
+    {
+      "rank": 45,
+      "net": "Net-(U1-Pad10",
+      "predicted_cost": 0.9048528075218201
+    },
+    {
+      "rank": 46,
+      "net": "Net-(J2-Pad21",
+      "predicted_cost": 0.9579514861106873
+    },
+    {
+      "rank": 47,
+      "net": "-12VA",
+      "predicted_cost": 50.14816665649414
+    },
+    {
+      "rank": 48,
+      "net": "Net-(J2-Pad30",
+      "predicted_cost": 0.1447867751121521
+    },
+    {
+      "rank": 49,
+      "net": "Net-(U1-Pad48",
+      "predicted_cost": 0.8749255537986755
+    },
+    {
+      "rank": 50,
+      "net": "Net-(J1-Pad34",
+      "predicted_cost": 0.03191465884447098
+    },
+    {
+      "rank": 51,
+      "net": "Net-(U1-Pad41",
+      "predicted_cost": 0.9077510237693787
+    },
+    {
+      "rank": 52,
+      "net": "Net-(J1-Pad23",
+      "predicted_cost": 0.767784059047699
+    },
+    {
+      "rank": 53,
+      "net": "Net-(U1-Pad12",
+      "predicted_cost": 0.8985061049461365
+    },
+    {
+      "rank": 54,
+      "net": "Net-(U1-Pad45",
+      "predicted_cost": 0.9208621382713318
+    },
+    {
+      "rank": 55,
+      "net": "Net-(J1-Pad9",
+      "predicted_cost": 0.8256863951683044
+    },
+    {
+      "rank": 56,
+      "net": "Net-(U1-Pad40",
+      "predicted_cost": 0.9107541441917419
+    },
+    {
+      "rank": 57,
+      "net": "Net-(U1-Pad22",
+      "predicted_cost": 0.8817052245140076
+    },
+    {
+      "rank": 58,
+      "net": "+12VA",
+      "predicted_cost": 25.859352111816406
+    },
+    {
+      "rank": 59,
+      "net": "Net-(J1-Pad20",
+      "predicted_cost": 0.9570407271385193
+    },
+    {
+      "rank": 60,
+      "net": "Net-(U1-Pad50",
+      "predicted_cost": 0.7919721007347107
+    },
+    {
+      "rank": 61,
+      "net": "Net-(J2-Pad6",
+      "predicted_cost": 0.8756951689720154
+    },
+    {
+      "rank": 62,
+      "net": "Net-(J2-Pad31",
+      "predicted_cost": 0.13445371389389038
+    },
+    {
+      "rank": 63,
+      "net": "Net-(J2-Pad25",
+      "predicted_cost": 0.49829477071762085
+    },
+    {
+      "rank": 64,
+      "net": "Net-(J2-Pad20",
+      "predicted_cost": 0.9537495970726013
+    },
+    {
+      "rank": 65,
+      "net": "Net-(J1-Pad32",
+      "predicted_cost": 0.1242951825261116
+    },
+    {
+      "rank": 66,
+      "net": "Net-(U1-Pad38",
+      "predicted_cost": 0.9236850142478943
+    },
+    {
+      "rank": 67,
+      "net": "Net-(U1-Pad2",
+      "predicted_cost": 0.8779467940330505
+    },
+    {
+      "rank": 68,
+      "net": "Net-(U1-Pad8",
+      "predicted_cost": 0.8883418440818787
+    },
+    {
+      "rank": 69,
+      "net": "Net-(J1-Pad16",
+      "predicted_cost": 0.8464755415916443
+    },
+    {
+      "rank": 70,
+      "net": "Net-(U1-Pad6",
+      "predicted_cost": 0.8562392592430115
+    },
+    {
+      "rank": 71,
+      "net": "Net-(J1-Pad24",
+      "predicted_cost": 0.5257262587547302
+    },
+    {
+      "rank": 72,
+      "net": "Net-(J2-Pad37",
+      "predicted_cost": -0.13140016794204712
+    },
+    {
+      "rank": 73,
+      "net": "Net-(U1-Pad18",
+      "predicted_cost": 0.8746404051780701
+    },
+    {
+      "rank": 74,
+      "net": "Net-(U1-Pad21",
+      "predicted_cost": 0.8797768950462341
+    },
+    {
+      "rank": 75,
+      "net": "Net-(J1-Pad19",
+      "predicted_cost": 0.9220427870750427
+    },
+    {
+      "rank": 76,
+      "net": "Net-(J1-Pad38",
+      "predicted_cost": -0.2583008408546448
+    },
+    {
+      "rank": 77,
+      "net": "Net-(J2-Pad34",
+      "predicted_cost": 0.035719819366931915
+    },
+    {
+      "rank": 78,
+      "net": "Net-(J2-Pad13",
+      "predicted_cost": 0.8352603316307068
+    },
+    {
+      "rank": 79,
+      "net": "Net-(U1-Pad35",
+      "predicted_cost": 0.9632634520530701
+    },
+    {
+      "rank": 80,
+      "net": "Net-(J1-Pad15",
+      "predicted_cost": 0.8321008086204529
+    },
+    {
+      "rank": 81,
+      "net": "Net-(J2-Pad12",
+      "predicted_cost": 0.8315123915672302
+    },
+    {
+      "rank": 82,
+      "net": "Net-(J1-Pad6",
+      "predicted_cost": 0.8109845519065857
+    },
+    {
+      "rank": 83,
+      "net": "Net-(U1-Pad31",
+      "predicted_cost": 0.8175210356712341
+    },
+    {
+      "rank": 84,
+      "net": "Net-(J1-Pad25",
+      "predicted_cost": 0.2804374098777771
+    },
+    {
+      "rank": 85,
+      "net": "Net-(J2-Pad9",
+      "predicted_cost": 0.8399390578269958
+    },
+    {
+      "rank": 86,
+      "net": "Net-(J1-Pad13",
+      "predicted_cost": 0.8160895705223083
+    },
+    {
+      "rank": 87,
+      "net": "Net-(J2-Pad27",
+      "predicted_cost": 0.19042199850082397
+    },
+    {
+      "rank": 88,
+      "net": "Net-(U1-Pad34",
+      "predicted_cost": 0.7757024168968201
+    },
+    {
+      "rank": 89,
+      "net": "Net-(J2-Pad19",
+      "predicted_cost": 0.9521531462669373
+    },
+    {
+      "rank": 90,
+      "net": "Net-(U1-Pad4",
+      "predicted_cost": 0.8717307448387146
+    },
+    {
+      "rank": 91,
+      "net": "Net-(J1-Pad14",
+      "predicted_cost": 0.8220910429954529
+    },
+    {
+      "rank": 92,
+      "net": "Net-(U1-Pad13",
+      "predicted_cost": 0.8991793990135193
+    },
+    {
+      "rank": 93,
+      "net": "Net-(J2-Pad36",
+      "predicted_cost": -0.08828740566968918
+    },
+    {
+      "rank": 94,
+      "net": "Net-(J1-Pad18",
+      "predicted_cost": 0.8918055891990662
+    },
+    {
+      "rank": 95,
+      "net": "Net-(J1-Pad31",
+      "predicted_cost": 0.13372033834457397
+    },
+    {
+      "rank": 96,
+      "net": "Net-(J2-Pad29",
+      "predicted_cost": 0.15744012594223022
+    },
+    {
+      "rank": 97,
+      "net": "Net-(J1-Pad17",
+      "predicted_cost": 0.8662719130516052
+    },
+    {
+      "rank": 98,
+      "net": "Net-(U1-Pad19",
+      "predicted_cost": 0.8620290160179138
+    },
+    {
+      "rank": 99,
+      "net": "Net-(J1-Pad27",
+      "predicted_cost": 0.23342889547348022
+    },
+    {
+      "rank": 100,
+      "net": "Net-(U1-Pad5",
+      "predicted_cost": 0.8754538893699646
+    },
+    {
+      "rank": 101,
+      "net": "Net-(U1-Pad20",
+      "predicted_cost": 0.8554629683494568
+    },
+    {
+      "rank": 102,
+      "net": "Net-(J2-Pad33",
+      "predicted_cost": 0.08020014315843582
+    },
+    {
+      "rank": 103,
+      "net": "Net-(J1-Pad35",
+      "predicted_cost": -0.049993567168712616
+    },
+    {
+      "rank": 104,
+      "net": "Net-(J1-Pad7",
+      "predicted_cost": 0.8263015151023865
+    },
+    {
+      "rank": 105,
+      "net": "Net-(J2-Pad28",
+      "predicted_cost": 0.1726035475730896
+    },
+    {
+      "rank": 106,
+      "net": "Net-(J2-Pad32",
+      "predicted_cost": 0.12630075216293335
+    },
+    {
+      "rank": 107,
+      "net": "Net-(J2-Pad11",
+      "predicted_cost": 0.8310765624046326
+    },
+    {
+      "rank": 108,
+      "net": "Net-(J2-Pad17",
+      "predicted_cost": 0.8922795653343201
+    },
+    {
+      "rank": 109,
+      "net": "Net-(J1-Pad12",
+      "predicted_cost": 0.8136081099510193
+    },
+    {
+      "rank": 110,
+      "net": "Net-(J2-Pad35",
+      "predicted_cost": -0.0075722262263298035
+    },
+    {
+      "rank": 111,
+      "net": "Net-(U1-Pad32",
+      "predicted_cost": 0.8261527419090271
+    },
+    {
+      "rank": 112,
+      "net": "Net-(J2-Pad38",
+      "predicted_cost": -0.21435552835464478
+    },
+    {
+      "rank": 113,
+      "net": "Net-(J2-Pad10",
+      "predicted_cost": 0.8340091109275818
+    },
+    {
+      "rank": 114,
+      "net": "Net-(J2-Pad26",
+      "predicted_cost": 0.3447265028953552
+    },
+    {
+      "rank": 115,
+      "net": "Net-(J1-Pad36",
+      "predicted_cost": -0.09313588589429855
+    },
+    {
+      "rank": 116,
+      "net": "Net-(U1-Pad43",
+      "predicted_cost": 0.9092282652854919
+    }
+  ],
+  "ga_used": true
+}

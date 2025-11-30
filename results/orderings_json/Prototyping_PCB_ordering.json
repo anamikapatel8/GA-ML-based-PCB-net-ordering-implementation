@@ -1,0 +1,212 @@
+{
+  "board": "Prototyping_PCB.kicad_pcb",
+  "num_nets": 41,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "VCC",
+      "predicted_cost": 64.66505432128906
+    },
+    {
+      "rank": 1,
+      "net": "Net-(C7-Pad1",
+      "predicted_cost": 42.92135238647461
+    },
+    {
+      "rank": 2,
+      "net": "Net-(C1-Pad+",
+      "predicted_cost": 54.956146240234375
+    },
+    {
+      "rank": 3,
+      "net": "GND",
+      "predicted_cost": 92.19491577148438
+    },
+    {
+      "rank": 4,
+      "net": "Net-(P4-Pad2",
+      "predicted_cost": 27.38439178466797
+    },
+    {
+      "rank": 5,
+      "net": "Net-(P3-Pad1",
+      "predicted_cost": 43.55198287963867
+    },
+    {
+      "rank": 6,
+      "net": "MIXOUTA",
+      "predicted_cost": 44.258243560791016
+    },
+    {
+      "rank": 7,
+      "net": "Net-(P3-Pad2",
+      "predicted_cost": 35.819557189941406
+    },
+    {
+      "rank": 8,
+      "net": "Net-(C13-Pad+",
+      "predicted_cost": 42.1030158996582
+    },
+    {
+      "rank": 9,
+      "net": "Net-(P5-Pad1",
+      "predicted_cost": 37.2131462097168
+    },
+    {
+      "rank": 10,
+      "net": "Net-(P6-Pad1",
+      "predicted_cost": 35.42736053466797
+    },
+    {
+      "rank": 11,
+      "net": "Net-(P4-Pad1",
+      "predicted_cost": 31.833927154541016
+    },
+    {
+      "rank": 12,
+      "net": "Net-(R11-Pad2",
+      "predicted_cost": 44.42393112182617
+    },
+    {
+      "rank": 13,
+      "net": "Net-(P2-Pad2",
+      "predicted_cost": 31.34686279296875
+    },
+    {
+      "rank": 14,
+      "net": "Net-(R11-Pad1",
+      "predicted_cost": 24.202041625976562
+    },
+    {
+      "rank": 15,
+      "net": "Net-(C7-Pad2",
+      "predicted_cost": 40.3019905090332
+    },
+    {
+      "rank": 16,
+      "net": "Net-(P6-Pad2",
+      "predicted_cost": 31.324831008911133
+    },
+    {
+      "rank": 17,
+      "net": "Net-(P5-Pad2",
+      "predicted_cost": 30.353425979614258
+    },
+    {
+      "rank": 18,
+      "net": "Net-(D2-Pad1",
+      "predicted_cost": 22.36284637451172
+    },
+    {
+      "rank": 19,
+      "net": "MIX1",
+      "predicted_cost": 34.526309967041016
+    },
+    {
+      "rank": 20,
+      "net": "MIXOUTB",
+      "predicted_cost": 27.459609985351562
+    },
+    {
+      "rank": 21,
+      "net": "Net-(P1-Pad2",
+      "predicted_cost": 27.405696868896484
+    },
+    {
+      "rank": 22,
+      "net": "Net-(P2-Pad1",
+      "predicted_cost": 36.473445892333984
+    },
+    {
+      "rank": 23,
+      "net": "Net-(P4-Pad3",
+      "predicted_cost": 19.93140411376953
+    },
+    {
+      "rank": 24,
+      "net": "Net-(C13-Pad-",
+      "predicted_cost": 31.659934997558594
+    },
+    {
+      "rank": 25,
+      "net": "Net-(D2-Pad2",
+      "predicted_cost": 23.562171936035156
+    },
+    {
+      "rank": 26,
+      "net": "Net-(P1-Pad1",
+      "predicted_cost": 32.01874923706055
+    },
+    {
+      "rank": 27,
+      "net": "Net-(P5-Pad3",
+      "predicted_cost": 21.15458869934082
+    },
+    {
+      "rank": 28,
+      "net": "MIX3",
+      "predicted_cost": 24.11620330810547
+    },
+    {
+      "rank": 29,
+      "net": "MIX2",
+      "predicted_cost": 29.00496482849121
+    },
+    {
+      "rank": 30,
+      "net": "Net-(C5-Pad1",
+      "predicted_cost": 20.706562042236328
+    },
+    {
+      "rank": 31,
+      "net": "Net-(C4-Pad1",
+      "predicted_cost": 20.705341339111328
+    },
+    {
+      "rank": 32,
+      "net": "Net-(P6-Pad3",
+      "predicted_cost": 25.113096237182617
+    },
+    {
+      "rank": 33,
+      "net": "Net-(D1-Pad1",
+      "predicted_cost": 22.235742568969727
+    },
+    {
+      "rank": 34,
+      "net": "Net-(C3-Pad1",
+      "predicted_cost": 20.39017677307129
+    },
+    {
+      "rank": 35,
+      "net": "Net-(P1-Pad3",
+      "predicted_cost": 20.531810760498047
+    },
+    {
+      "rank": 36,
+      "net": "MIX4",
+      "predicted_cost": 20.886308670043945
+    },
+    {
+      "rank": 37,
+      "net": "Net-(P3-Pad3",
+      "predicted_cost": 24.662540435791016
+    },
+    {
+      "rank": 38,
+      "net": "Net-(C2-Pad1",
+      "predicted_cost": 19.976560592651367
+    },
+    {
+      "rank": 39,
+      "net": "Net-(P2-Pad3",
+      "predicted_cost": 23.43151092529297
+    },
+    {
+      "rank": 40,
+      "net": "Net-(S7-Pad1",
+      "predicted_cost": 1.9983863830566406
+    }
+  ],
+  "ga_used": true
+}

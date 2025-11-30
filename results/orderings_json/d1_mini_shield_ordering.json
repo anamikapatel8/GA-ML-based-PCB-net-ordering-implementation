@@ -1,0 +1,87 @@
+{
+  "board": "d1_mini_shield.kicad_pcb",
+  "num_nets": 16,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "/RST",
+      "predicted_cost": -1.9836292266845703
+    },
+    {
+      "rank": 1,
+      "net": "/A0",
+      "predicted_cost": -1.998727798461914
+    },
+    {
+      "rank": 2,
+      "net": "/+3.3V",
+      "predicted_cost": -1.9958887100219727
+    },
+    {
+      "rank": 3,
+      "net": "/TX",
+      "predicted_cost": -2.0047407150268555
+    },
+    {
+      "rank": 4,
+      "net": "/D0",
+      "predicted_cost": -2.0094470977783203
+    },
+    {
+      "rank": 5,
+      "net": "/D8",
+      "predicted_cost": -2.007504463195801
+    },
+    {
+      "rank": 6,
+      "net": "/D5",
+      "predicted_cost": -2.0157032012939453
+    },
+    {
+      "rank": 7,
+      "net": "/RX",
+      "predicted_cost": -2.019865036010742
+    },
+    {
+      "rank": 8,
+      "net": "/D7",
+      "predicted_cost": -2.0147132873535156
+    },
+    {
+      "rank": 9,
+      "net": "/+5V",
+      "predicted_cost": -2.017007827758789
+    },
+    {
+      "rank": 10,
+      "net": "/GND",
+      "predicted_cost": -2.028635025024414
+    },
+    {
+      "rank": 11,
+      "net": "/D6",
+      "predicted_cost": -2.0174694061279297
+    },
+    {
+      "rank": 12,
+      "net": "/D1",
+      "predicted_cost": -2.0305795669555664
+    },
+    {
+      "rank": 13,
+      "net": "/D2",
+      "predicted_cost": -2.036832809448242
+    },
+    {
+      "rank": 14,
+      "net": "/D4",
+      "predicted_cost": -2.0358362197875977
+    },
+    {
+      "rank": 15,
+      "net": "/D3",
+      "predicted_cost": -2.038588523864746
+    }
+  ],
+  "ga_used": true
+}

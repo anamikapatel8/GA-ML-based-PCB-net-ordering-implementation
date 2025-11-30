@@ -1,0 +1,32 @@
+{
+  "board": "ACtoDCconverter.kicad_pcb",
+  "num_nets": 5,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "GND",
+      "predicted_cost": 46.77547073364258
+    },
+    {
+      "rank": 1,
+      "net": "/+VE",
+      "predicted_cost": 39.742610931396484
+    },
+    {
+      "rank": 2,
+      "net": "Net-(D3-A",
+      "predicted_cost": 38.08414077758789
+    },
+    {
+      "rank": 3,
+      "net": "Net-(D1-A",
+      "predicted_cost": 28.80912208557129
+    },
+    {
+      "rank": 4,
+      "net": "Net-(D5-A",
+      "predicted_cost": 12.842094421386719
+    }
+  ],
+  "ga_used": true
+}

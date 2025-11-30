@@ -1,0 +1,17 @@
+{
+  "board": "Chipkit_Shield_uC.kicad_pcb",
+  "num_nets": 2,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "/RG6",
+      "predicted_cost": 60.29619216918945
+    },
+    {
+      "rank": 1,
+      "net": "/GND",
+      "predicted_cost": 97.32780456542969
+    }
+  ],
+  "ga_used": true
+}

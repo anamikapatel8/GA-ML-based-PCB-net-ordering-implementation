@@ -1,0 +1,527 @@
+{
+  "board": "CubeSatKit_StackBoard.kicad_pcb",
+  "num_nets": 104,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "Net-(H2-Pad52",
+      "predicted_cost": -1.9687824249267578
+    },
+    {
+      "rank": 1,
+      "net": "Net-(H2-Pad51",
+      "predicted_cost": -1.9695415496826172
+    },
+    {
+      "rank": 2,
+      "net": "Net-(H2-Pad3",
+      "predicted_cost": -2.01754093170166
+    },
+    {
+      "rank": 3,
+      "net": "Net-(H2-Pad5",
+      "predicted_cost": -2.0350608825683594
+    },
+    {
+      "rank": 4,
+      "net": "Net-(H1-Pad37",
+      "predicted_cost": -2.111186981201172
+    },
+    {
+      "rank": 5,
+      "net": "Net-(H2-Pad46",
+      "predicted_cost": -2.0630130767822266
+    },
+    {
+      "rank": 6,
+      "net": "Net-(H2-Pad47",
+      "predicted_cost": -2.0353879928588867
+    },
+    {
+      "rank": 7,
+      "net": "Net-(H2-Pad2",
+      "predicted_cost": -1.9935054779052734
+    },
+    {
+      "rank": 8,
+      "net": "Net-(H2-Pad44",
+      "predicted_cost": -2.088329315185547
+    },
+    {
+      "rank": 9,
+      "net": "Net-(H1-Pad49",
+      "predicted_cost": -1.9967422485351562
+    },
+    {
+      "rank": 10,
+      "net": "Net-(H2-Pad30",
+      "predicted_cost": -2.179464340209961
+    },
+    {
+      "rank": 11,
+      "net": "Net-(H1-Pad52",
+      "predicted_cost": -1.9704360961914062
+    },
+    {
+      "rank": 12,
+      "net": "Net-(H1-Pad1",
+      "predicted_cost": -1.986159324645996
+    },
+    {
+      "rank": 13,
+      "net": "Net-(H2-Pad49",
+      "predicted_cost": -2.003978729248047
+    },
+    {
+      "rank": 14,
+      "net": "Net-(H1-Pad51",
+      "predicted_cost": -1.9711999893188477
+    },
+    {
+      "rank": 15,
+      "net": "Net-(H1-Pad15",
+      "predicted_cost": -2.153092384338379
+    },
+    {
+      "rank": 16,
+      "net": "Net-(H2-Pad6",
+      "predicted_cost": -2.034322738647461
+    },
+    {
+      "rank": 17,
+      "net": "Net-(H2-Pad7",
+      "predicted_cost": -2.045583724975586
+    },
+    {
+      "rank": 18,
+      "net": "Net-(H1-Pad2",
+      "predicted_cost": -1.9853763580322266
+    },
+    {
+      "rank": 19,
+      "net": "Net-(H1-Pad7",
+      "predicted_cost": -2.0760421752929688
+    },
+    {
+      "rank": 20,
+      "net": "Net-(H2-Pad48",
+      "predicted_cost": -2.0346317291259766
+    },
+    {
+      "rank": 21,
+      "net": "Net-(H2-Pad14",
+      "predicted_cost": -2.0989646911621094
+    },
+    {
+      "rank": 22,
+      "net": "Net-(H1-Pad11",
+      "predicted_cost": -2.1207151412963867
+    },
+    {
+      "rank": 23,
+      "net": "Net-(H2-Pad25",
+      "predicted_cost": -2.178569793701172
+    },
+    {
+      "rank": 24,
+      "net": "Net-(H2-Pad50",
+      "predicted_cost": -2.003209114074707
+    },
+    {
+      "rank": 25,
+      "net": "Net-(H2-Pad45",
+      "predicted_cost": -2.063779830932617
+    },
+    {
+      "rank": 26,
+      "net": "Net-(H2-Pad31",
+      "predicted_cost": -2.176426887512207
+    },
+    {
+      "rank": 27,
+      "net": "Net-(H2-Pad1",
+      "predicted_cost": -1.9942741394042969
+    },
+    {
+      "rank": 28,
+      "net": "Net-(H1-Pad47",
+      "predicted_cost": -2.0165910720825195
+    },
+    {
+      "rank": 29,
+      "net": "Net-(H1-Pad25",
+      "predicted_cost": -2.1802139282226562
+    },
+    {
+      "rank": 30,
+      "net": "Net-(H1-Pad4",
+      "predicted_cost": -2.0183563232421875
+    },
+    {
+      "rank": 31,
+      "net": "Net-(H1-Pad43",
+      "predicted_cost": -2.0351486206054688
+    },
+    {
+      "rank": 32,
+      "net": "Net-(H1-Pad21",
+      "predicted_cost": -2.1785879135131836
+    },
+    {
+      "rank": 33,
+      "net": "Net-(H2-Pad12",
+      "predicted_cost": -2.075058937072754
+    },
+    {
+      "rank": 34,
+      "net": "Net-(H2-Pad9",
+      "predicted_cost": -2.048872947692871
+    },
+    {
+      "rank": 35,
+      "net": "Net-(H1-Pad5",
+      "predicted_cost": -2.049102783203125
+    },
+    {
+      "rank": 36,
+      "net": "Net-(H1-Pad45",
+      "predicted_cost": -2.029451370239258
+    },
+    {
+      "rank": 37,
+      "net": "Net-(H1-Pad8",
+      "predicted_cost": -2.075258255004883
+    },
+    {
+      "rank": 38,
+      "net": "Net-(H2-Pad20",
+      "predicted_cost": -2.1522254943847656
+    },
+    {
+      "rank": 39,
+      "net": "Net-(H1-Pad36",
+      "predicted_cost": -2.129606246948242
+    },
+    {
+      "rank": 40,
+      "net": "Net-(H1-Pad30",
+      "predicted_cost": -2.1687450408935547
+    },
+    {
+      "rank": 41,
+      "net": "Net-(H2-Pad18",
+      "predicted_cost": -2.137533187866211
+    },
+    {
+      "rank": 42,
+      "net": "Net-(H1-Pad10",
+      "predicted_cost": -2.099127769470215
+    },
+    {
+      "rank": 43,
+      "net": "Net-(H2-Pad10",
+      "predicted_cost": -2.048095703125
+    },
+    {
+      "rank": 44,
+      "net": "Net-(H1-Pad44",
+      "predicted_cost": -2.0343847274780273
+    },
+    {
+      "rank": 45,
+      "net": "Net-(H1-Pad50",
+      "predicted_cost": -1.9959716796875
+    },
+    {
+      "rank": 46,
+      "net": "Net-(H1-Pad13",
+      "predicted_cost": -2.1384382247924805
+    },
+    {
+      "rank": 47,
+      "net": "Net-(H1-Pad16",
+      "predicted_cost": -2.152334213256836
+    },
+    {
+      "rank": 48,
+      "net": "Net-(H1-Pad42",
+      "predicted_cost": -2.0627994537353516
+    },
+    {
+      "rank": 49,
+      "net": "Net-(H1-Pad33",
+      "predicted_cost": -2.1464900970458984
+    },
+    {
+      "rank": 50,
+      "net": "Net-(H1-Pad40",
+      "predicted_cost": -2.088136672973633
+    },
+    {
+      "rank": 51,
+      "net": "Net-(H2-Pad37",
+      "predicted_cost": -2.146613121032715
+    },
+    {
+      "rank": 52,
+      "net": "Net-(H2-Pad11",
+      "predicted_cost": -2.0758323669433594
+    },
+    {
+      "rank": 53,
+      "net": "Net-(H1-Pad28",
+      "predicted_cost": -2.1756372451782227
+    },
+    {
+      "rank": 54,
+      "net": "Net-(H1-Pad46",
+      "predicted_cost": -2.028707504272461
+    },
+    {
+      "rank": 55,
+      "net": "Net-(H2-Pad42",
+      "predicted_cost": -2.110553741455078
+    },
+    {
+      "rank": 56,
+      "net": "Net-(H2-Pad4",
+      "predicted_cost": -2.0167694091796875
+    },
+    {
+      "rank": 57,
+      "net": "Net-(H1-Pad3",
+      "predicted_cost": -2.0191192626953125
+    },
+    {
+      "rank": 58,
+      "net": "Net-(H2-Pad39",
+      "predicted_cost": -2.1305007934570312
+    },
+    {
+      "rank": 59,
+      "net": "Net-(H1-Pad14",
+      "predicted_cost": -2.137669563293457
+    },
+    {
+      "rank": 60,
+      "net": "Net-(H1-Pad6",
+      "predicted_cost": -2.048344612121582
+    },
+    {
+      "rank": 61,
+      "net": "Net-(H2-Pad36",
+      "predicted_cost": -2.1588592529296875
+    },
+    {
+      "rank": 62,
+      "net": "Net-(H1-Pad9",
+      "predicted_cost": -2.0999088287353516
+    },
+    {
+      "rank": 63,
+      "net": "Net-(H2-Pad17",
+      "predicted_cost": -2.138303756713867
+    },
+    {
+      "rank": 64,
+      "net": "Net-(H1-Pad27",
+      "predicted_cost": -2.1763906478881836
+    },
+    {
+      "rank": 65,
+      "net": "Net-(H2-Pad13",
+      "predicted_cost": -2.099728584289551
+    },
+    {
+      "rank": 66,
+      "net": "Net-(H2-Pad19",
+      "predicted_cost": -2.1529855728149414
+    },
+    {
+      "rank": 67,
+      "net": "Net-(H1-Pad48",
+      "predicted_cost": -2.015840530395508
+    },
+    {
+      "rank": 68,
+      "net": "Net-(H1-Pad20",
+      "predicted_cost": -2.1724109649658203
+    },
+    {
+      "rank": 69,
+      "net": "Net-(H2-Pad34",
+      "predicted_cost": -2.168818473815918
+    },
+    {
+      "rank": 70,
+      "net": "Net-(H1-Pad24",
+      "predicted_cost": -2.180187225341797
+    },
+    {
+      "rank": 71,
+      "net": "Net-(H1-Pad34",
+      "predicted_cost": -2.145740509033203
+    },
+    {
+      "rank": 72,
+      "net": "Net-(H2-Pad21",
+      "predicted_cost": -2.164579391479492
+    },
+    {
+      "rank": 73,
+      "net": "Net-(H2-Pad8",
+      "predicted_cost": -2.0448074340820312
+    },
+    {
+      "rank": 74,
+      "net": "Net-(H1-Pad38",
+      "predicted_cost": -2.110396385192871
+    },
+    {
+      "rank": 75,
+      "net": "Net-(H1-Pad41",
+      "predicted_cost": -2.063568115234375
+    },
+    {
+      "rank": 76,
+      "net": "Net-(H2-Pad16",
+      "predicted_cost": -2.119791030883789
+    },
+    {
+      "rank": 77,
+      "net": "Net-(H1-Pad12",
+      "predicted_cost": -2.119955062866211
+    },
+    {
+      "rank": 78,
+      "net": "Net-(H2-Pad15",
+      "predicted_cost": -2.1205549240112305
+    },
+    {
+      "rank": 79,
+      "net": "Net-(H1-Pad29",
+      "predicted_cost": -2.1695079803466797
+    },
+    {
+      "rank": 80,
+      "net": "Net-(H2-Pad32",
+      "predicted_cost": -2.1756820678710938
+    },
+    {
+      "rank": 81,
+      "net": "Net-(H1-Pad31",
+      "predicted_cost": -2.1595382690429688
+    },
+    {
+      "rank": 82,
+      "net": "Net-(H1-Pad17",
+      "predicted_cost": -2.1646738052368164
+    },
+    {
+      "rank": 83,
+      "net": "Net-(H1-Pad26",
+      "predicted_cost": -2.179431915283203
+    },
+    {
+      "rank": 84,
+      "net": "Net-(H2-Pad41",
+      "predicted_cost": -2.111330986022949
+    },
+    {
+      "rank": 85,
+      "net": "Net-(H2-Pad28",
+      "predicted_cost": -2.1801719665527344
+    },
+    {
+      "rank": 86,
+      "net": "Net-(H2-Pad26",
+      "predicted_cost": -2.1778030395507812
+    },
+    {
+      "rank": 87,
+      "net": "Net-(H2-Pad22",
+      "predicted_cost": -2.163823127746582
+    },
+    {
+      "rank": 88,
+      "net": "Net-(H1-Pad23",
+      "predicted_cost": -2.180950164794922
+    },
+    {
+      "rank": 89,
+      "net": "Net-(H2-Pad27",
+      "predicted_cost": -2.180950164794922
+    },
+    {
+      "rank": 90,
+      "net": "Net-(H2-Pad24",
+      "predicted_cost": -2.172353744506836
+    },
+    {
+      "rank": 91,
+      "net": "Net-(H1-Pad35",
+      "predicted_cost": -2.130368232727051
+    },
+    {
+      "rank": 92,
+      "net": "Net-(H1-Pad39",
+      "predicted_cost": -2.0888900756835938
+    },
+    {
+      "rank": 93,
+      "net": "Net-(H2-Pad40",
+      "predicted_cost": -2.129732131958008
+    },
+    {
+      "rank": 94,
+      "net": "Net-(H2-Pad43",
+      "predicted_cost": -2.089097023010254
+    },
+    {
+      "rank": 95,
+      "net": "Net-(H2-Pad35",
+      "predicted_cost": -2.159626007080078
+    },
+    {
+      "rank": 96,
+      "net": "Net-(H1-Pad19",
+      "predicted_cost": -2.1731929779052734
+    },
+    {
+      "rank": 97,
+      "net": "Net-(H2-Pad33",
+      "predicted_cost": -2.169576644897461
+    },
+    {
+      "rank": 98,
+      "net": "Net-(H2-Pad38",
+      "predicted_cost": -2.1458520889282227
+    },
+    {
+      "rank": 99,
+      "net": "Net-(H1-Pad18",
+      "predicted_cost": -2.1639184951782227
+    },
+    {
+      "rank": 100,
+      "net": "Net-(H1-Pad32",
+      "predicted_cost": -2.158766746520996
+    },
+    {
+      "rank": 101,
+      "net": "Net-(H2-Pad23",
+      "predicted_cost": -2.1731433868408203
+    },
+    {
+      "rank": 102,
+      "net": "Net-(H2-Pad29",
+      "predicted_cost": -2.1802291870117188
+    },
+    {
+      "rank": 103,
+      "net": "Net-(H1-Pad22",
+      "predicted_cost": -2.177823066711426
+    }
+  ],
+  "ga_used": true
+}

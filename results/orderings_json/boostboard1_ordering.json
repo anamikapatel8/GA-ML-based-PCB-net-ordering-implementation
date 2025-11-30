@@ -1,0 +1,52 @@
+{
+  "board": "boostboard1.kicad_pcb",
+  "num_nets": 9,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "/GND",
+      "predicted_cost": 29.379566192626953
+    },
+    {
+      "rank": 1,
+      "net": "/VCC",
+      "predicted_cost": 27.726537704467773
+    },
+    {
+      "rank": 2,
+      "net": "/VBATT",
+      "predicted_cost": 18.41509246826172
+    },
+    {
+      "rank": 3,
+      "net": "/FB",
+      "predicted_cost": 13.527925491333008
+    },
+    {
+      "rank": 4,
+      "net": "/EN",
+      "predicted_cost": 12.778463363647461
+    },
+    {
+      "rank": 5,
+      "net": "/LX",
+      "predicted_cost": 12.382368087768555
+    },
+    {
+      "rank": 6,
+      "net": "Net-(D1-PadC",
+      "predicted_cost": 11.915059089660645
+    },
+    {
+      "rank": 7,
+      "net": "Net-(JP1-Pad1",
+      "predicted_cost": 11.66115951538086
+    },
+    {
+      "rank": 8,
+      "net": "/RSET",
+      "predicted_cost": 9.661542892456055
+    }
+  ],
+  "ga_used": true
+}

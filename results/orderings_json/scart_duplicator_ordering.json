@@ -1,0 +1,312 @@
+{
+  "board": "scart_duplicator.kicad_pcb",
+  "num_nets": 61,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "/AUDIO_RIGHT",
+      "predicted_cost": 126.13155364990234
+    },
+    {
+      "rank": 1,
+      "net": "Net-(U1-CH2IN",
+      "predicted_cost": 38.63603973388672
+    },
+    {
+      "rank": 2,
+      "net": "+5V",
+      "predicted_cost": 120.91891479492188
+    },
+    {
+      "rank": 3,
+      "net": "GND",
+      "predicted_cost": 293.0890808105469
+    },
+    {
+      "rank": 4,
+      "net": "Net-(J3-P16",
+      "predicted_cost": 53.98876953125
+    },
+    {
+      "rank": 5,
+      "net": "/SWITCHING",
+      "predicted_cost": 94.91694641113281
+    },
+    {
+      "rank": 6,
+      "net": "/G_OUT2",
+      "predicted_cost": 30.246395111083984
+    },
+    {
+      "rank": 7,
+      "net": "Net-(C6-Pad1",
+      "predicted_cost": 21.394760131835938
+    },
+    {
+      "rank": 8,
+      "net": "Net-(D1-A",
+      "predicted_cost": 43.453697204589844
+    },
+    {
+      "rank": 9,
+      "net": "Net-(U1-CH2OUT",
+      "predicted_cost": 46.082366943359375
+    },
+    {
+      "rank": 10,
+      "net": "unconnected-(USB1-B5_cc2-Pad4",
+      "predicted_cost": 3.1955692768096924
+    },
+    {
+      "rank": 11,
+      "net": "/R_OUT1",
+      "predicted_cost": 29.204641342163086
+    },
+    {
+      "rank": 12,
+      "net": "/CSYNC_OUT2",
+      "predicted_cost": 50.18155288696289
+    },
+    {
+      "rank": 13,
+      "net": "Net-(U1-CH4IN",
+      "predicted_cost": 34.37297821044922
+    },
+    {
+      "rank": 14,
+      "net": "/AUDIO_GND",
+      "predicted_cost": 115.46525573730469
+    },
+    {
+      "rank": 15,
+      "net": "/AUDIO_LEFT",
+      "predicted_cost": 126.0545425415039
+    },
+    {
+      "rank": 16,
+      "net": "Net-(C7-Pad1",
+      "predicted_cost": 21.39621353149414
+    },
+    {
+      "rank": 17,
+      "net": "Net-(U1-CH1OUT",
+      "predicted_cost": 53.700565338134766
+    },
+    {
+      "rank": 18,
+      "net": "Net-(JP1-C",
+      "predicted_cost": 67.14336395263672
+    },
+    {
+      "rank": 19,
+      "net": "unconnected-(J3-P20-Pad20",
+      "predicted_cost": 2.9680354595184326
+    },
+    {
+      "rank": 20,
+      "net": "/B_OUT1",
+      "predicted_cost": 47.11211013793945
+    },
+    {
+      "rank": 21,
+      "net": "Net-(U1-CH4OUT",
+      "predicted_cost": 53.70317459106445
+    },
+    {
+      "rank": 22,
+      "net": "Net-(U1-CH3IN",
+      "predicted_cost": 35.9969367980957
+    },
+    {
+      "rank": 23,
+      "net": "unconnected-(J2-P14-Pad14",
+      "predicted_cost": 3.9877309799194336
+    },
+    {
+      "rank": 24,
+      "net": "unconnected-(J3-P12-Pad12",
+      "predicted_cost": 3.7815608978271484
+    },
+    {
+      "rank": 25,
+      "net": "unconnected-(J3-P2-Pad2",
+      "predicted_cost": 4.027033805847168
+    },
+    {
+      "rank": 26,
+      "net": "/CSYNC_OUT1",
+      "predicted_cost": 26.48794937133789
+    },
+    {
+      "rank": 27,
+      "net": "/CSYNC_IN",
+      "predicted_cost": 31.997329711914062
+    },
+    {
+      "rank": 28,
+      "net": "/B_IN",
+      "predicted_cost": 32.37543869018555
+    },
+    {
+      "rank": 29,
+      "net": "Net-(C9-Pad1",
+      "predicted_cost": 21.430927276611328
+    },
+    {
+      "rank": 30,
+      "net": "Net-(U1-CH3OUT",
+      "predicted_cost": 46.08342361450195
+    },
+    {
+      "rank": 31,
+      "net": "/R_OUT2",
+      "predicted_cost": 30.421531677246094
+    },
+    {
+      "rank": 32,
+      "net": "unconnected-(J1-P12-Pad12",
+      "predicted_cost": 3.6421139240264893
+    },
+    {
+      "rank": 33,
+      "net": "Net-(J2-P16",
+      "predicted_cost": 32.87650680541992
+    },
+    {
+      "rank": 34,
+      "net": "Net-(C11-Pad1",
+      "predicted_cost": 21.50684928894043
+    },
+    {
+      "rank": 35,
+      "net": "Net-(C12-Pad1",
+      "predicted_cost": 21.51822280883789
+    },
+    {
+      "rank": 36,
+      "net": "unconnected-(J1-P16-Pad16",
+      "predicted_cost": 3.4989407062530518
+    },
+    {
+      "rank": 37,
+      "net": "Net-(C13-Pad1",
+      "predicted_cost": 21.5207462310791
+    },
+    {
+      "rank": 38,
+      "net": "Net-(C8-Pad1",
+      "predicted_cost": 21.408924102783203
+    },
+    {
+      "rank": 39,
+      "net": "unconnected-(U1-NC-Pad8",
+      "predicted_cost": 4.047247886657715
+    },
+    {
+      "rank": 40,
+      "net": "Net-(C10-Pad1",
+      "predicted_cost": 21.48946762084961
+    },
+    {
+      "rank": 41,
+      "net": "unconnected-(J2-P10-Pad10",
+      "predicted_cost": 3.8107528686523438
+    },
+    {
+      "rank": 42,
+      "net": "unconnected-(USB1-A5_cc1-Pad3",
+      "predicted_cost": 3.1947386264801025
+    },
+    {
+      "rank": 43,
+      "net": "unconnected-(J1-P3-Pad3",
+      "predicted_cost": 3.2893829345703125
+    },
+    {
+      "rank": 44,
+      "net": "/B_OUT2",
+      "predicted_cost": 28.052101135253906
+    },
+    {
+      "rank": 45,
+      "net": "/G_OUT1",
+      "predicted_cost": 29.176345825195312
+    },
+    {
+      "rank": 46,
+      "net": "unconnected-(J2-P20-Pad20",
+      "predicted_cost": 4.039959907531738
+    },
+    {
+      "rank": 47,
+      "net": "unconnected-(J1-P14-Pad14",
+      "predicted_cost": 3.6345789432525635
+    },
+    {
+      "rank": 48,
+      "net": "Net-(U1-CH1IN",
+      "predicted_cost": 41.05497741699219
+    },
+    {
+      "rank": 49,
+      "net": "/G_IN",
+      "predicted_cost": 31.150243759155273
+    },
+    {
+      "rank": 50,
+      "net": "unconnected-(J3-P6-Pad6",
+      "predicted_cost": 3.9861080646514893
+    },
+    {
+      "rank": 51,
+      "net": "unconnected-(U1-NC-Pad7",
+      "predicted_cost": 4.029352188110352
+    },
+    {
+      "rank": 52,
+      "net": "unconnected-(J1-P1-Pad1",
+      "predicted_cost": 3.0791802406311035
+    },
+    {
+      "rank": 53,
+      "net": "unconnected-(J1-P19-Pad19",
+      "predicted_cost": 3.511094331741333
+    },
+    {
+      "rank": 54,
+      "net": "/R_IN",
+      "predicted_cost": 30.377994537353516
+    },
+    {
+      "rank": 55,
+      "net": "unconnected-(J1-P10-Pad10",
+      "predicted_cost": 3.64376163482666
+    },
+    {
+      "rank": 56,
+      "net": "unconnected-(J2-P6-Pad6",
+      "predicted_cost": 3.07157039642334
+    },
+    {
+      "rank": 57,
+      "net": "unconnected-(J3-P14-Pad14",
+      "predicted_cost": 3.6727261543273926
+    },
+    {
+      "rank": 58,
+      "net": "unconnected-(J2-P2-Pad2",
+      "predicted_cost": 2.61967134475708
+    },
+    {
+      "rank": 59,
+      "net": "unconnected-(J2-P12-Pad12",
+      "predicted_cost": 3.843029737472534
+    },
+    {
+      "rank": 60,
+      "net": "unconnected-(J3-P10-Pad10",
+      "predicted_cost": 3.815833330154419
+    }
+  ],
+  "ga_used": true
+}

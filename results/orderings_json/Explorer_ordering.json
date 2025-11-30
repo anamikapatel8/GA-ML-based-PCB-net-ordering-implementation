@@ -1,0 +1,1022 @@
+{
+  "board": "Explorer.kicad_pcb",
+  "num_nets": 203,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "Net-(U1-VSENSE",
+      "predicted_cost": 16.858800888061523
+    },
+    {
+      "rank": 1,
+      "net": "Net-(D4-A",
+      "predicted_cost": 9.51984977722168
+    },
+    {
+      "rank": 2,
+      "net": "/Sensors/AAF_NN",
+      "predicted_cost": 74.94462585449219
+    },
+    {
+      "rank": 3,
+      "net": "/MCU Controller/RS232F_RXD",
+      "predicted_cost": 45.62453842163086
+    },
+    {
+      "rank": 4,
+      "net": "Net-(U19A--",
+      "predicted_cost": 18.31064796447754
+    },
+    {
+      "rank": 5,
+      "net": "Net-(C51-Pad1",
+      "predicted_cost": 16.579164505004883
+    },
+    {
+      "rank": 6,
+      "net": "unconnected-(U8-D_SEL-Pad2",
+      "predicted_cost": 0.2996329665184021
+    },
+    {
+      "rank": 7,
+      "net": "unconnected-(U11-PB15-Pad28",
+      "predicted_cost": 0.16121095418930054
+    },
+    {
+      "rank": 8,
+      "net": "Net-(C52-Pad1",
+      "predicted_cost": 16.57742691040039
+    },
+    {
+      "rank": 9,
+      "net": "unconnected-(U8-RESERVED-Pad14",
+      "predicted_cost": 0.09492487460374832
+    },
+    {
+      "rank": 10,
+      "net": "/MCU Controller/MEMS_INT1",
+      "predicted_cost": 16.634572982788086
+    },
+    {
+      "rank": 11,
+      "net": "/Sensors/AAF_ZN",
+      "predicted_cost": 37.13676452636719
+    },
+    {
+      "rank": 12,
+      "net": "/MCU Controller/MCU_SCLK",
+      "predicted_cost": 20.419273376464844
+    },
+    {
+      "rank": 13,
+      "net": "Net-(U18B--",
+      "predicted_cost": 17.834484100341797
+    },
+    {
+      "rank": 14,
+      "net": "GNDA",
+      "predicted_cost": 362.2340393066406
+    },
+    {
+      "rank": 15,
+      "net": "/MCU Controller/SAMP_RATE_B2",
+      "predicted_cost": 22.54424476623535
+    },
+    {
+      "rank": 16,
+      "net": "/Sensors/EHE",
+      "predicted_cost": 63.797908782958984
+    },
+    {
+      "rank": 17,
+      "net": "/MCU Controller/D+3V3",
+      "predicted_cost": 271.9288024902344
+    },
+    {
+      "rank": 18,
+      "net": "unconnected-(J8-Pad4",
+      "predicted_cost": -0.17847448587417603
+    },
+    {
+      "rank": 19,
+      "net": "Net-(U3-EN",
+      "predicted_cost": 14.86843204498291
+    },
+    {
+      "rank": 20,
+      "net": "Net-(U22-AIN9",
+      "predicted_cost": 14.532297134399414
+    },
+    {
+      "rank": 21,
+      "net": "Net-(U22-AIN6",
+      "predicted_cost": 14.379409790039062
+    },
+    {
+      "rank": 22,
+      "net": "unconnected-(U8-SCL{slash}SPI_CLK-Pad19",
+      "predicted_cost": -0.12252240628004074
+    },
+    {
+      "rank": 23,
+      "net": "Net-(C54-Pad1",
+      "predicted_cost": 24.40956687927246
+    },
+    {
+      "rank": 24,
+      "net": "Net-(JP1-A",
+      "predicted_cost": 17.853097915649414
+    },
+    {
+      "rank": 25,
+      "net": "Net-(D23-A",
+      "predicted_cost": 8.432159423828125
+    },
+    {
+      "rank": 26,
+      "net": "/MCU Controller/BAUD_RATE_B1",
+      "predicted_cost": 32.41391372680664
+    },
+    {
+      "rank": 27,
+      "net": "unconnected-(J8-Pad7",
+      "predicted_cost": 0.0010375455021858215
+    },
+    {
+      "rank": 28,
+      "net": "Net-(U4-OUT",
+      "predicted_cost": 18.198022842407227
+    },
+    {
+      "rank": 29,
+      "net": "/Sensors/EHZ_LP",
+      "predicted_cost": 69.07666015625
+    },
+    {
+      "rank": 30,
+      "net": "/MCU Controller/RS232M_RXD",
+      "predicted_cost": 65.33165740966797
+    },
+    {
+      "rank": 31,
+      "net": "unconnected-(U8-SDA{slash}~{SPI_CS}-Pad18",
+      "predicted_cost": -0.11188416928052902
+    },
+    {
+      "rank": 32,
+      "net": "Net-(U15A-+",
+      "predicted_cost": 19.346771240234375
+    },
+    {
+      "rank": 33,
+      "net": "/MCU Controller/MCU_RXD",
+      "predicted_cost": 69.88261413574219
+    },
+    {
+      "rank": 34,
+      "net": "/Sensors/AAF_NP",
+      "predicted_cost": 72.77288818359375
+    },
+    {
+      "rank": 35,
+      "net": "/MCU Controller/RS232M_TXD",
+      "predicted_cost": 71.39415740966797
+    },
+    {
+      "rank": 36,
+      "net": "Net-(D10-A2",
+      "predicted_cost": 79.28134155273438
+    },
+    {
+      "rank": 37,
+      "net": "Net-(U2-BP",
+      "predicted_cost": 14.629688262939453
+    },
+    {
+      "rank": 38,
+      "net": "Net-(D8-A2",
+      "predicted_cost": 78.02750396728516
+    },
+    {
+      "rank": 39,
+      "net": "/MCU Controller/OPTIONS_B1",
+      "predicted_cost": 57.292144775390625
+    },
+    {
+      "rank": 40,
+      "net": "unconnected-(J8-Pad6",
+      "predicted_cost": -0.1548634171485901
+    },
+    {
+      "rank": 41,
+      "net": "/Sensors/PREAMP_ZP",
+      "predicted_cost": 18.596200942993164
+    },
+    {
+      "rank": 42,
+      "net": "unconnected-(U11-PB14-Pad27",
+      "predicted_cost": 0.1609782576560974
+    },
+    {
+      "rank": 43,
+      "net": "Net-(U14B--",
+      "predicted_cost": 14.682733535766602
+    },
+    {
+      "rank": 44,
+      "net": "/MCU Controller/ADC_RESET",
+      "predicted_cost": 30.56801414489746
+    },
+    {
+      "rank": 45,
+      "net": "/MCU Controller/MCU_BOOT0",
+      "predicted_cost": 34.30864334106445
+    },
+    {
+      "rank": 46,
+      "net": "Net-(D16-K",
+      "predicted_cost": 15.113797187805176
+    },
+    {
+      "rank": 47,
+      "net": "/Sensors/EHZ",
+      "predicted_cost": 74.51289367675781
+    },
+    {
+      "rank": 48,
+      "net": "Net-(U13B-+",
+      "predicted_cost": 18.599489212036133
+    },
+    {
+      "rank": 49,
+      "net": "Net-(D1-K",
+      "predicted_cost": 18.29940414428711
+    },
+    {
+      "rank": 50,
+      "net": "unconnected-(J7-Pad7",
+      "predicted_cost": 0.10629457980394363
+    },
+    {
+      "rank": 51,
+      "net": "/Sensors/AAF_EP",
+      "predicted_cost": 59.03407669067383
+    },
+    {
+      "rank": 52,
+      "net": "Net-(JP2-A",
+      "predicted_cost": 31.975616455078125
+    },
+    {
+      "rank": 53,
+      "net": "Net-(D23-K",
+      "predicted_cost": 27.860719680786133
+    },
+    {
+      "rank": 54,
+      "net": "Net-(JP3-A",
+      "predicted_cost": 39.44059371948242
+    },
+    {
+      "rank": 55,
+      "net": "/MCU Controller/GNSS_RXD",
+      "predicted_cost": 28.99442481994629
+    },
+    {
+      "rank": 56,
+      "net": "/MCU Controller/GNSS_TXD",
+      "predicted_cost": 38.56208801269531
+    },
+    {
+      "rank": 57,
+      "net": "Net-(D9-K",
+      "predicted_cost": 19.259197235107422
+    },
+    {
+      "rank": 58,
+      "net": "unconnected-(SW1B-B-Pad5",
+      "predicted_cost": 0.6873721480369568
+    },
+    {
+      "rank": 59,
+      "net": "/Sensors/EHN",
+      "predicted_cost": 52.27701950073242
+    },
+    {
+      "rank": 60,
+      "net": "GNDD",
+      "predicted_cost": 294.86883544921875
+    },
+    {
+      "rank": 61,
+      "net": "Net-(D5-K",
+      "predicted_cost": 15.34503173828125
+    },
+    {
+      "rank": 62,
+      "net": "unconnected-(U9-Pad8",
+      "predicted_cost": 0.5699004530906677
+    },
+    {
+      "rank": 63,
+      "net": "Net-(J2-Pin_4",
+      "predicted_cost": 16.499727249145508
+    },
+    {
+      "rank": 64,
+      "net": "/Sensors/PREAMP_NN",
+      "predicted_cost": 18.960153579711914
+    },
+    {
+      "rank": 65,
+      "net": "/MCU Controller/MCU_BOOT1",
+      "predicted_cost": 17.571271896362305
+    },
+    {
+      "rank": 66,
+      "net": "/MCU Controller/ADC_START",
+      "predicted_cost": 39.63669204711914
+    },
+    {
+      "rank": 67,
+      "net": "Net-(C53-Pad1",
+      "predicted_cost": 16.18276596069336
+    },
+    {
+      "rank": 68,
+      "net": "Net-(D3-A",
+      "predicted_cost": 47.318275451660156
+    },
+    {
+      "rank": 69,
+      "net": "/Power Supply/A+2V5",
+      "predicted_cost": 217.4814910888672
+    },
+    {
+      "rank": 70,
+      "net": "/MCU Controller/MCU_MISO",
+      "predicted_cost": 22.059036254882812
+    },
+    {
+      "rank": 71,
+      "net": "unconnected-(U8-RESERVED-Pad17",
+      "predicted_cost": 0.07691092044115067
+    },
+    {
+      "rank": 72,
+      "net": "/MCU Controller/OPTIONS_B2",
+      "predicted_cost": 57.74467849731445
+    },
+    {
+      "rank": 73,
+      "net": "/Sensors/EHZ_BP",
+      "predicted_cost": 50.09336471557617
+    },
+    {
+      "rank": 74,
+      "net": "Net-(U14A--",
+      "predicted_cost": 16.28428077697754
+    },
+    {
+      "rank": 75,
+      "net": "/MCU Controller/MCU_TXD",
+      "predicted_cost": 82.02714538574219
+    },
+    {
+      "rank": 76,
+      "net": "Net-(D13-A",
+      "predicted_cost": 14.037216186523438
+    },
+    {
+      "rank": 77,
+      "net": "Net-(U12-C2-",
+      "predicted_cost": 17.15192222595215
+    },
+    {
+      "rank": 78,
+      "net": "Net-(U17A--",
+      "predicted_cost": 18.40812110900879
+    },
+    {
+      "rank": 79,
+      "net": "Net-(U14A-+",
+      "predicted_cost": 19.49590301513672
+    },
+    {
+      "rank": 80,
+      "net": "Net-(U17B--",
+      "predicted_cost": 18.274442672729492
+    },
+    {
+      "rank": 81,
+      "net": "/MCU Controller/GNSS_1PPS",
+      "predicted_cost": 20.122215270996094
+    },
+    {
+      "rank": 82,
+      "net": "unconnected-(U8-VDD_USB-Pad7",
+      "predicted_cost": 0.26628202199935913
+    },
+    {
+      "rank": 83,
+      "net": "Net-(U18A--",
+      "predicted_cost": 18.74721908569336
+    },
+    {
+      "rank": 84,
+      "net": "/MCU Controller/MCU_XTAL0",
+      "predicted_cost": 18.495811462402344
+    },
+    {
+      "rank": 85,
+      "net": "/Power Supply/VIN",
+      "predicted_cost": 32.835079193115234
+    },
+    {
+      "rank": 86,
+      "net": "Net-(C55-Pad1",
+      "predicted_cost": 23.14537811279297
+    },
+    {
+      "rank": 87,
+      "net": "/MCU Controller/MCU_SCL",
+      "predicted_cost": 80.83219909667969
+    },
+    {
+      "rank": 88,
+      "net": "/MCU Controller/MCU_SWCLK",
+      "predicted_cost": 15.284086227416992
+    },
+    {
+      "rank": 89,
+      "net": "/MCU Controller/RS232F_TXD",
+      "predicted_cost": 38.10495376586914
+    },
+    {
+      "rank": 90,
+      "net": "unconnected-(J8-Pad5",
+      "predicted_cost": -0.1059761568903923
+    },
+    {
+      "rank": 91,
+      "net": "unconnected-(J7-Pad4",
+      "predicted_cost": 0.5195273756980896
+    },
+    {
+      "rank": 92,
+      "net": "Net-(U19B--",
+      "predicted_cost": 17.91819190979004
+    },
+    {
+      "rank": 93,
+      "net": "unconnected-(U1-NC-Pad3",
+      "predicted_cost": 0.012852616608142853
+    },
+    {
+      "rank": 94,
+      "net": "/MCU Controller/ROM_WP",
+      "predicted_cost": 28.67401123046875
+    },
+    {
+      "rank": 95,
+      "net": "Net-(U12-C2+",
+      "predicted_cost": 15.5455322265625
+    },
+    {
+      "rank": 96,
+      "net": "/Sensors/ADC_REFOUT",
+      "predicted_cost": 24.442180633544922
+    },
+    {
+      "rank": 97,
+      "net": "Net-(U15B--",
+      "predicted_cost": 15.443071365356445
+    },
+    {
+      "rank": 98,
+      "net": "Net-(U4-EN",
+      "predicted_cost": 24.273914337158203
+    },
+    {
+      "rank": 99,
+      "net": "/Sensors/EHE_LP",
+      "predicted_cost": 58.70091247558594
+    },
+    {
+      "rank": 100,
+      "net": "Net-(U10-DE",
+      "predicted_cost": 16.019847869873047
+    },
+    {
+      "rank": 101,
+      "net": "/MCU Controller/MCU_SDA",
+      "predicted_cost": 77.93728637695312
+    },
+    {
+      "rank": 102,
+      "net": "Net-(U13B--",
+      "predicted_cost": 15.483592987060547
+    },
+    {
+      "rank": 103,
+      "net": "/MCU Controller/MCU_CSEL",
+      "predicted_cost": 19.126853942871094
+    },
+    {
+      "rank": 104,
+      "net": "Net-(U15A--",
+      "predicted_cost": 15.980710983276367
+    },
+    {
+      "rank": 105,
+      "net": "Net-(U13A--",
+      "predicted_cost": 17.092140197753906
+    },
+    {
+      "rank": 106,
+      "net": "/Sensors/AAF_EN",
+      "predicted_cost": 61.2789421081543
+    },
+    {
+      "rank": 107,
+      "net": "Net-(D12-K",
+      "predicted_cost": 14.56484317779541
+    },
+    {
+      "rank": 108,
+      "net": "unconnected-(U8-RESERVED-Pad15",
+      "predicted_cost": 0.09483141452074051
+    },
+    {
+      "rank": 109,
+      "net": "Net-(D1-A",
+      "predicted_cost": 18.417844772338867
+    },
+    {
+      "rank": 110,
+      "net": "Net-(U22-CAPP",
+      "predicted_cost": 16.270994186401367
+    },
+    {
+      "rank": 111,
+      "net": "unconnected-(U16-NC-Pad11",
+      "predicted_cost": 0.07013220340013504
+    },
+    {
+      "rank": 112,
+      "net": "Net-(U4-NR",
+      "predicted_cost": 15.217416763305664
+    },
+    {
+      "rank": 113,
+      "net": "Net-(U22-BYPASS",
+      "predicted_cost": 17.10181427001953
+    },
+    {
+      "rank": 114,
+      "net": "Net-(D3-K",
+      "predicted_cost": 21.700855255126953
+    },
+    {
+      "rank": 115,
+      "net": "Net-(D11-K",
+      "predicted_cost": 14.53192138671875
+    },
+    {
+      "rank": 116,
+      "net": "Net-(D15-K",
+      "predicted_cost": 15.475642204284668
+    },
+    {
+      "rank": 117,
+      "net": "/Power Supply/VCC",
+      "predicted_cost": 89.55348205566406
+    },
+    {
+      "rank": 118,
+      "net": "Net-(BT1-+",
+      "predicted_cost": 30.163288116455078
+    },
+    {
+      "rank": 119,
+      "net": "/Sensors/AAF_ZP",
+      "predicted_cost": 34.14719009399414
+    },
+    {
+      "rank": 120,
+      "net": "unconnected-(J7-Pad8",
+      "predicted_cost": 0.11896509677171707
+    },
+    {
+      "rank": 121,
+      "net": "/Sensors/PREAMP_EP",
+      "predicted_cost": 18.18194007873535
+    },
+    {
+      "rank": 122,
+      "net": "unconnected-(U8-USB_DP-Pad6",
+      "predicted_cost": 0.2661284804344177
+    },
+    {
+      "rank": 123,
+      "net": "Net-(U18A-+",
+      "predicted_cost": 14.254322052001953
+    },
+    {
+      "rank": 124,
+      "net": "Net-(U12-C1-",
+      "predicted_cost": 24.324569702148438
+    },
+    {
+      "rank": 125,
+      "net": "/MCU Controller/OPTIONS_B3",
+      "predicted_cost": 53.05385971069336
+    },
+    {
+      "rank": 126,
+      "net": "/MCU Controller/MCU_MOSI",
+      "predicted_cost": 22.99655532836914
+    },
+    {
+      "rank": 127,
+      "net": "Net-(U3-SW",
+      "predicted_cost": 16.91250228881836
+    },
+    {
+      "rank": 128,
+      "net": "/Sensors/PREAMP_EN",
+      "predicted_cost": 19.485334396362305
+    },
+    {
+      "rank": 129,
+      "net": "/Sensors/EHN_LP",
+      "predicted_cost": 39.601680755615234
+    },
+    {
+      "rank": 130,
+      "net": "/Power Supply/A-2V5",
+      "predicted_cost": 270.8215637207031
+    },
+    {
+      "rank": 131,
+      "net": "Net-(J2-Pin_3",
+      "predicted_cost": 17.28369140625
+    },
+    {
+      "rank": 132,
+      "net": "Net-(U9-Pad2",
+      "predicted_cost": -4.419336318969727
+    },
+    {
+      "rank": 133,
+      "net": "Net-(D14-K",
+      "predicted_cost": 15.985739707946777
+    },
+    {
+      "rank": 134,
+      "net": "Net-(U8-RF_IN",
+      "predicted_cost": 17.068124771118164
+    },
+    {
+      "rank": 135,
+      "net": "/Sensors/EHE_BP",
+      "predicted_cost": 33.49246597290039
+    },
+    {
+      "rank": 136,
+      "net": "unconnected-(U8-RESERVED-Pad16",
+      "predicted_cost": 0.07614511996507645
+    },
+    {
+      "rank": 137,
+      "net": "Net-(D6-A",
+      "predicted_cost": 13.019742965698242
+    },
+    {
+      "rank": 138,
+      "net": "/MCU Controller/GNSS_RESET",
+      "predicted_cost": 54.5860481262207
+    },
+    {
+      "rank": 139,
+      "net": "/Sensors/EHN_BP",
+      "predicted_cost": 23.51018524169922
+    },
+    {
+      "rank": 140,
+      "net": "/MCU Controller/MEMS_INT2",
+      "predicted_cost": 14.800140380859375
+    },
+    {
+      "rank": 141,
+      "net": "/MCU Controller/MCU_STATE",
+      "predicted_cost": 16.216005325317383
+    },
+    {
+      "rank": 142,
+      "net": "unconnected-(U11-PB13-Pad26",
+      "predicted_cost": 0.13458150625228882
+    },
+    {
+      "rank": 143,
+      "net": "unconnected-(U11-PC15-Pad4",
+      "predicted_cost": 0.507133424282074
+    },
+    {
+      "rank": 144,
+      "net": "Net-(U13A-+",
+      "predicted_cost": 19.509262084960938
+    },
+    {
+      "rank": 145,
+      "net": "Net-(U12-VS-",
+      "predicted_cost": 19.251468658447266
+    },
+    {
+      "rank": 146,
+      "net": "unconnected-(U9-Pad10",
+      "predicted_cost": 0.4806308150291443
+    },
+    {
+      "rank": 147,
+      "net": "unconnected-(J1-Pad3",
+      "predicted_cost": 0.5838822722434998
+    },
+    {
+      "rank": 148,
+      "net": "/MCU Controller/BAUD_RATE_B2",
+      "predicted_cost": 31.548906326293945
+    },
+    {
+      "rank": 149,
+      "net": "/Sensors/PREAMP_ZN",
+      "predicted_cost": 19.80109405517578
+    },
+    {
+      "rank": 150,
+      "net": "unconnected-(U9-Pad12",
+      "predicted_cost": 0.278469979763031
+    },
+    {
+      "rank": 151,
+      "net": "Net-(R19-Pad1",
+      "predicted_cost": 23.86679458618164
+    },
+    {
+      "rank": 152,
+      "net": "/Sensors/PREAMP_NP",
+      "predicted_cost": 17.796066284179688
+    },
+    {
+      "rank": 153,
+      "net": "unconnected-(U1-NC-Pad2",
+      "predicted_cost": -0.11818128079175949
+    },
+    {
+      "rank": 154,
+      "net": "Net-(U22-CAPN",
+      "predicted_cost": 16.046321868896484
+    },
+    {
+      "rank": 155,
+      "net": "Net-(U3-FB",
+      "predicted_cost": 17.367664337158203
+    },
+    {
+      "rank": 156,
+      "net": "Net-(C33-Pad1",
+      "predicted_cost": 7.869007110595703
+    },
+    {
+      "rank": 157,
+      "net": "unconnected-(U1-EN-Pad5",
+      "predicted_cost": 0.6228808760643005
+    },
+    {
+      "rank": 158,
+      "net": "Net-(U1-BOOT",
+      "predicted_cost": 14.928643226623535
+    },
+    {
+      "rank": 159,
+      "net": "/MCU Controller/SAMP_RATE_B1",
+      "predicted_cost": 22.7980899810791
+    },
+    {
+      "rank": 160,
+      "net": "Net-(C56-Pad1",
+      "predicted_cost": 23.949745178222656
+    },
+    {
+      "rank": 161,
+      "net": "Net-(Y1-OUT",
+      "predicted_cost": 15.186078071594238
+    },
+    {
+      "rank": 162,
+      "net": "Net-(U11-NRST",
+      "predicted_cost": 51.462581634521484
+    },
+    {
+      "rank": 163,
+      "net": "GND",
+      "predicted_cost": 57.13882064819336
+    },
+    {
+      "rank": 164,
+      "net": "unconnected-(SW1B-C-Pad6",
+      "predicted_cost": 0.6017007231712341
+    },
+    {
+      "rank": 165,
+      "net": "/MCU Controller/ADC_DRDY",
+      "predicted_cost": 47.70772171020508
+    },
+    {
+      "rank": 166,
+      "net": "Net-(U12-VS+",
+      "predicted_cost": 19.24292755126953
+    },
+    {
+      "rank": 167,
+      "net": "unconnected-(U6-NC-Pad1",
+      "predicted_cost": 1.076253890991211
+    },
+    {
+      "rank": 168,
+      "net": "Net-(U17A-+",
+      "predicted_cost": 14.171274185180664
+    },
+    {
+      "rank": 169,
+      "net": "unconnected-(U8-EXTINT-Pad4",
+      "predicted_cost": 0.21454519033432007
+    },
+    {
+      "rank": 170,
+      "net": "Net-(U12-C1+",
+      "predicted_cost": 25.332077026367188
+    },
+    {
+      "rank": 171,
+      "net": "/MCU Controller/MCU_SWDIO",
+      "predicted_cost": 15.272218704223633
+    },
+    {
+      "rank": 172,
+      "net": "Net-(J3-In",
+      "predicted_cost": 25.822233200073242
+    },
+    {
+      "rank": 173,
+      "net": "Net-(U10-RO",
+      "predicted_cost": 18.532838821411133
+    },
+    {
+      "rank": 174,
+      "net": "Net-(U19A-+",
+      "predicted_cost": 14.33339786529541
+    },
+    {
+      "rank": 175,
+      "net": "unconnected-(J8-Pad9",
+      "predicted_cost": -0.34787946939468384
+    },
+    {
+      "rank": 176,
+      "net": "unconnected-(U8-USB_DM-Pad5",
+      "predicted_cost": 0.2253207564353943
+    },
+    {
+      "rank": 177,
+      "net": "unconnected-(Y1-OE-Pad1",
+      "predicted_cost": 0.27507680654525757
+    },
+    {
+      "rank": 178,
+      "net": "Net-(U3-VCC",
+      "predicted_cost": 16.20193099975586
+    },
+    {
+      "rank": 179,
+      "net": "unconnected-(J8-Pad8",
+      "predicted_cost": -0.2877236008644104
+    },
+    {
+      "rank": 180,
+      "net": "unconnected-(U11-PD1-Pad6",
+      "predicted_cost": 0.42210572957992554
+    },
+    {
+      "rank": 181,
+      "net": "unconnected-(SW1A-C-Pad3",
+      "predicted_cost": 0.5948075652122498
+    },
+    {
+      "rank": 182,
+      "net": "Net-(U22-AIN7",
+      "predicted_cost": 14.392627716064453
+    },
+    {
+      "rank": 183,
+      "net": "Net-(U3-BST",
+      "predicted_cost": 14.279876708984375
+    },
+    {
+      "rank": 184,
+      "net": "Net-(U16-CS",
+      "predicted_cost": 14.466475486755371
+    },
+    {
+      "rank": 185,
+      "net": "Net-(U22-AIN8",
+      "predicted_cost": 14.558982849121094
+    },
+    {
+      "rank": 186,
+      "net": "unconnected-(J7-Pad1",
+      "predicted_cost": 0.08916182070970535
+    },
+    {
+      "rank": 187,
+      "net": "unconnected-(U11-PC14-Pad3",
+      "predicted_cost": 0.505673348903656
+    },
+    {
+      "rank": 188,
+      "net": "unconnected-(U6-NC-Pad2",
+      "predicted_cost": 0.9437894225120544
+    },
+    {
+      "rank": 189,
+      "net": "Net-(U15B-+",
+      "predicted_cost": 18.04965591430664
+    },
+    {
+      "rank": 190,
+      "net": "unconnected-(U16-SCX-Pad3",
+      "predicted_cost": 0.06977648288011551
+    },
+    {
+      "rank": 191,
+      "net": "Net-(C16-Pad1",
+      "predicted_cost": 0.454521119594574
+    },
+    {
+      "rank": 192,
+      "net": "unconnected-(U11-PB5-Pad41",
+      "predicted_cost": 0.5133714079856873
+    },
+    {
+      "rank": 193,
+      "net": "Net-(U22-AINCOM",
+      "predicted_cost": 14.389913558959961
+    },
+    {
+      "rank": 194,
+      "net": "unconnected-(U22-XTAL2-Pad16",
+      "predicted_cost": 0.07930750399827957
+    },
+    {
+      "rank": 195,
+      "net": "unconnected-(U16-SDX-Pad2",
+      "predicted_cost": 0.07686800509691238
+    },
+    {
+      "rank": 196,
+      "net": "unconnected-(J7-Pad9",
+      "predicted_cost": 0.4840087294578552
+    },
+    {
+      "rank": 197,
+      "net": "unconnected-(U16-NC-Pad10",
+      "predicted_cost": 0.0701560452580452
+    },
+    {
+      "rank": 198,
+      "net": "Net-(U14B-+",
+      "predicted_cost": 17.534502029418945
+    },
+    {
+      "rank": 199,
+      "net": "Net-(U8-VCC_RF",
+      "predicted_cost": 28.716690063476562
+    },
+    {
+      "rank": 200,
+      "net": "unconnected-(J7-Pad6",
+      "predicted_cost": 0.2500876784324646
+    },
+    {
+      "rank": 201,
+      "net": "unconnected-(SW1B-A-Pad4",
+      "predicted_cost": 0.6265525221824646
+    },
+    {
+      "rank": 202,
+      "net": "unconnected-(U8-~{SAFEBOOT}-Pad1",
+      "predicted_cost": 0.28572267293930054
+    }
+  ],
+  "ga_used": true
+}

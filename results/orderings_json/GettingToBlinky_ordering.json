@@ -1,0 +1,42 @@
+{
+  "board": "GettingToBlinky.kicad_pcb",
+  "num_nets": 7,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "/VDD",
+      "predicted_cost": 45.04349136352539
+    },
+    {
+      "rank": 1,
+      "net": "GND",
+      "predicted_cost": 34.667049407958984
+    },
+    {
+      "rank": 2,
+      "net": "Net-(C1-Pad1",
+      "predicted_cost": 29.204179763793945
+    },
+    {
+      "rank": 3,
+      "net": "Net-(R1-Pad2",
+      "predicted_cost": 21.15087127685547
+    },
+    {
+      "rank": 4,
+      "net": "Net-(R3-Pad1",
+      "predicted_cost": 17.788970947265625
+    },
+    {
+      "rank": 5,
+      "net": "Net-(D1-Pad2",
+      "predicted_cost": 13.547721862792969
+    },
+    {
+      "rank": 6,
+      "net": "Net-(U1-Pad5",
+      "predicted_cost": -0.3122015595436096
+    }
+  ],
+  "ga_used": true
+}

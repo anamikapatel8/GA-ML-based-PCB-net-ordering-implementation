@@ -1,0 +1,22 @@
+{
+  "board": "simple.kicad_pcb",
+  "num_nets": 3,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "GND",
+      "predicted_cost": 17.995407104492188
+    },
+    {
+      "rank": 1,
+      "net": "/HS_P",
+      "predicted_cost": 66.42620086669922
+    },
+    {
+      "rank": 2,
+      "net": "/HS_N",
+      "predicted_cost": 66.42620086669922
+    }
+  ],
+  "ga_used": true
+}

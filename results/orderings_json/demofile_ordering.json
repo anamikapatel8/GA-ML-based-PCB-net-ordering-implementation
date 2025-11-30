@@ -1,0 +1,22 @@
+{
+  "board": "demofile.kicad_pcb",
+  "num_nets": 3,
+  "optimized_order": [
+    {
+      "rank": 0,
+      "net": "GND",
+      "predicted_cost": 41.348751068115234
+    },
+    {
+      "rank": 1,
+      "net": "Net-(D2-A",
+      "predicted_cost": 42.61355209350586
+    },
+    {
+      "rank": 2,
+      "net": "VCC",
+      "predicted_cost": 42.93378448486328
+    }
+  ],
+  "ga_used": true
+}
